@@ -1,1 +1,2 @@
-# DATA-DRIVEN-SALES-FORECASTING-AND-PRICING-STRATEGY-OPTIMIZATION-WITH-MACHINE-LEARNING
+# DATA-DRIVEN SALES FORECASTING AND PRICING  STRATEGY OPTIMIZATION WITH MACHINE LEARNING
+ This project focuses on leveraging machine learning models to forecast sales using 2023 data from  the Black Friday Sales dataset. The primary goal is to develop predictive models that help optimize  pricing strategies, improve inventory management, and support revenue growth. Various machine  learning algorithms are implemented and compared to determine their efficacy in predicting sales  with accuracy. This report documents the methodology, results, and findings of this experiment. 
